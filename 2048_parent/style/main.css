@@ -56,7 +56,7 @@ h1.title {
 .score-container, .best-container {
   position: relative;
   display: inline-block;
-  background: #bbada0;
+  background: #98D9B6;
   padding: 15px 25px;
   font-size: 25px;
   height: 25px;
@@ -151,7 +151,7 @@ hr {
   -webkit-touch-callout: none;
   -webkit-user-select: none;
   -moz-user-select: none;
-  background: #bbada0;
+  background: #357351;
   border-radius: 6px;
   width: 500px;
   height: 500px;
@@ -185,7 +185,7 @@ hr {
       margin-top: 59px; }
     .game-container .game-message a {
       display: inline-block;
-      background: #8f7a66;
+      background: #357351;
       border-radius: 3px;
       padding: 0 20px;
       text-decoration: none;
